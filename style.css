@@ -1,0 +1,20 @@
+body {
+    background-image: url("../img/account.svg"),
+     url("../img/facebook.svg"),
+     url("../img/instagram.svg"),
+     url("../img/Line.svg"),
+     url("../img/logotype 1.svg"),
+     url("../img/logotype 2.svg"),
+     url("../img/main photo 1.jpg"),
+     url("../img/map.png"),
+     url("../img/photo 2.jpg"),
+     url("../img/photo 3.jpg"),
+     url("../img/placeholder.svg"),
+     url("../img/twitter.svg"),
+  }
+  .h2 .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
